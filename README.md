@@ -8,13 +8,13 @@
 
 ## 개발환경
 
-- IDE: Eclipse yy버전
-- JDK 11
+- IDE: Eclipse xx버전
+- JDK 1.8
 - Tomcat 9.0
 
 ## 실행방법
 
 - 'mainWebtoonPage.java'
-```bash
- java XXXX.java --yyy
+```bash1
+ java XXXX.java --xxx
 ```
