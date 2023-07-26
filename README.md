@@ -13,4 +13,7 @@
 
 ## 실행방법
 
-'main.'
+- 'main.java'
+```bash
+ java XXXX.java -- XXX
+```
